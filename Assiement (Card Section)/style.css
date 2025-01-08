@@ -1,0 +1,187 @@
+body{
+    background-color: lightskyblue;
+}
+
+.card-1{
+    border: 1px solid lightskyblue;
+    border-radius: 10px;
+    background-color: white;
+    width: 30%;
+    height: 100vh;
+
+}
+
+.card-1 .image-1{
+    width: 100%;
+    border-radius: 10px 10px 0px 0px;
+}
+
+.card-1 button{
+    color: white;
+    background-color: rgb(0, 191, 255);
+    border: 1px solid white;
+    border-radius: 50px;
+    margin-left: 5%;
+    margin-top: 5%;
+    font-size: 15px;
+}
+
+.card-1 h1{
+    margin-left: 5%;
+}
+
+.card-1 .text{
+    margin-left: 5%;
+
+}
+
+
+.card-1 .image-2{
+    border: 1px solid white ;
+    border-radius: 100% ;
+    width: 40px;
+    height: 40px;
+    margin-left: 5%;
+    margin-top: 40px;
+    display: inline;
+    margin-top: 33%;
+}
+
+.card-1 .picture-text{
+   position: absolute;
+   display: inline-block;
+   top: 700px;
+
+}
+
+.card-1 .picture-text-2{
+    
+display: inline-block;
+}
+
+.card-2{
+    border: 1px solid lightskyblue;
+    border-radius: 10px;
+    background-color: white;
+    width: 30%;
+    height: 100vh;
+}
+
+.card-2 .image-1{
+    width: 100%;
+    border-radius: 10px 10px 0px 0px;
+}
+
+.card-2 button{
+    color: white;
+    background-color: rgb(0, 191, 255);
+    border: 1px solid white;
+    border-radius: 50px;
+    margin-left: 5%;
+    margin-top: 5%;
+    font-size: 15px;
+}
+
+.card-2 h1{
+    margin-left: 5%;
+}
+
+.card-2 .text{
+    margin-left: 5%;
+
+}
+
+
+.card-2 .image-2{
+   
+    border: 1px solid white ;
+    border-radius: 100% ;
+    width: 40px;
+    height: 40px;
+    margin-left: 5%;
+    display: inline;
+    margin-top: 40%;
+    
+}
+
+.card-2 .picture-text{
+display: inline-block;
+position: absolute;
+top: 705px;
+}
+
+.card-2 .picture-text-2{
+    display: inline-block;
+   
+}
+
+
+
+
+.card-3{
+    border: 1px solid lightskyblue;
+    border-radius: 10px;
+    background-color: white;
+    width: 30%;
+    height: 100vh;
+}
+
+.card-3 .image-1{
+    width: 100%;
+    border-radius: 10px 10px 0px 0px;
+}
+
+.card-3 button{
+    color: white;
+    background-color: rgb(0, 191, 255);
+    border: 1px solid white;
+    border-radius: 50px;
+    margin-left: 5%;
+    margin-top: 5%;
+    font-size: 15px;
+}
+
+.card-3 h1{
+    margin-left: 5%;
+}
+
+.card-3 .text{
+    margin-left: 5%;
+
+}
+
+
+.card-3 .image-2{
+    border: 1px solid white ;
+    border-radius: 100% ;
+    width: 40px;
+    height: 40px;
+    margin-left: 5%;
+    display: inline;
+    margin-top: 50%;
+}
+
+.card-3 .picture-text{
+display: inline-block;
+position: absolute;
+top: 710px;
+}
+
+.card-3 .picture-text-2{
+    display: inline-block;
+    
+}
+
+.main-div{
+    display: flex;
+    justify-content: space-around;
+}
+
+
+
+
+
+
+
+
+
