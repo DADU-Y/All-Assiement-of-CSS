@@ -1,0 +1,182 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
+.upper-div .input-1{
+    box-shadow: 0px 0px 10px black;
+    outline: none;
+    border: none;
+    border-radius: 2px;
+    background-image: url("https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Search_Icon.svg/1024px-Search_Icon.svg.png"), url("https://cdn2.iconfinder.com/data/icons/arrows-311/24/89-_arrow-512.png");
+    background-size: 20px;
+    background-repeat: no-repeat;
+    padding: 7px;
+    padding-right: 110px;
+    padding-left: 20px;
+    background-position-y: center,center;
+    background-position-x:left,right ;
+    margin:15px;
+    
+}
+
+.upper-div .button-1{
+    color: white;
+    background-color: rgb(54, 54, 179);
+    border-radius: 25px;
+    padding: 5px;
+    border: none;
+    margin-left: 900px;
+}
+
+.upper-div .button-2{
+    color: black;
+    background-color: white;
+    border: none;
+    border-radius: 5px;
+    padding: 10px;
+    box-shadow: 0px 0px 10px black;
+    margin-left: 1%;
+}
+
+.upper-div .dropdown-1{
+    box-shadow: 0px 0px 10px black;
+    border: none;
+    outline: none;
+    border-radius: 3px;
+    background-image: url("https://www.shareicon.net/data/512x512/2016/01/03/697399_square_512x512.png");
+    background-size: 20px;
+    background-repeat: no-repeat;
+    padding: 7px 300px 7px 25px;
+    background-position-y:center ;
+    margin: 15px;
+}
+
+.dropdown-2{
+    box-shadow: 0px 0px 10px black;
+    border: none;
+    outline: none;
+    border-radius: 3px;
+    background-image: url("https://cdn-images-1.medium.com/max/1200/1*WljD7gLyX2gr_60o501Z1A.png");
+    background-size: 20px;
+    background-repeat: no-repeat;
+    padding: 7px 300px 7px 25px;
+    background-position-y:center;
+    margin: 15px;
+}
+
+.dropdown-3{
+    box-shadow: 0px 0px 10px black;
+    border: none;
+    outline: none;
+    border-radius: 3px;
+    background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRW8_XnE3zH2HNCTWCyxNV-_q3ZoIgZLVw_4w&s");
+    background-size: 20px;
+    background-repeat: no-repeat;
+    padding: 7px 300px 7px 25px;
+    background-position-y:center;
+    margin: 15px;
+}
+
+
+table tr td .button-1{
+    color: white;
+    background-color: rgb(54, 54, 179);
+    border-top-left-radius: 15px ;
+    border-bottom-left-radius: 15px ;
+    border: none;
+    padding: 5px;
+}
+
+table tr td .button-2{
+    color: black;
+    background-color: white;
+    border:none;
+    padding: 5px 7px;
+}
+
+table tr td .button-3{
+    color: white;
+    background-color: rgb(54, 54, 179);
+    border-top-right-radius: 15px ;
+    border-bottom-right-radius: 15px ;
+    border: none;
+    padding: 5px;
+
+}
+
+
+img{
+    width: 70px;
+    height: 70px;
+}
+
+table{
+    width: 98%;
+    height: 500px;
+    border-collapse: collapse;
+    margin-left: 1%;
+    margin-right: 1%;
+    border: none;
+    border-radius: 5px;
+    box-shadow: 0px 0px 10px black;
+
+}
+
+table tr td{
+    text-align: center;
+}
+
+
+thead{
+    color: white;
+    background-color: rgb(54, 54, 179);
+}
+
+tfoot{
+    color: white;
+    background-color: rgb(54, 54, 179);
+}
+
+
+table thead .td-1{
+    border-top-left-radius:5px ;
+    
+}
+
+table thead .td-2{
+    border-top-right-radius:5px ;
+}
+
+table thead td{
+    padding: 7px 7px 30px 7px;
+}
+
+table tfoot .td-1{
+    border-bottom-left-radius:5px ;
+}
+
+table tfoot .td-2{
+    border-bottom-right-radius:5px ;
+}
+
+table tfoot td{
+    padding:7px 7px 30px 7px ;
+}
+
+
+i{
+    color: white;
+    background-color: rgb(54, 54, 179);
+    border-radius: 25px;
+    padding: 10px;
+}
+
+
+
+
+
+
+
+
+
