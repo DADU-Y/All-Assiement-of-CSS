@@ -1,0 +1,332 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
+.Navbar{
+    background-color: rgb(242, 239, 255);
+    box-shadow: 0px 0px 5px black;
+    height: 80px;
+    display: inline-block;
+    width: 100%;
+}
+
+
+.jawan-Pakisan-logo{
+    width: 300px;
+    padding-left: 10px;
+    padding-top: 10px;
+}
+
+.Navbar ul{
+    list-style-type: none;
+    display: inline-block;
+}
+.Navbar ul li{
+    display: inline-block;
+}
+
+.Navbar ul .list-1{
+    color: grey;
+    position: absolute;
+    left: 80%;
+    top: 40px;
+}
+
+.Navbar ul .list-2{
+    position: absolute;
+    left: 90%;
+    top: 40px;
+}
+
+fieldset{
+    border: none;
+    width: 70%;
+    box-shadow: 0px 0px 5px black;
+    margin: 5% auto;
+    
+}
+
+form .div-1 .dropdown-1{
+
+    border: none;
+    outline: none;
+    border-bottom: 1px solid black;
+    width: 100%;
+    font-size: 20px;
+
+    
+}
+
+form .div-1 .dropdown-2{
+    border: none;
+    outline: none;
+    border-bottom: 1px solid black;
+    width: 100%;
+    font-size: 20px;
+
+
+}
+
+form .div-1 .dropdown-3{
+    border: none;
+    outline: none;
+    border-bottom: 1px solid black;
+    width: 100%;
+    font-size: 20px;
+
+}
+
+
+.H-1{
+    text-align: center;
+    color: green;
+    margin-top: 45px;
+}
+
+
+form .div-1{
+    margin-top: 30px;
+    display: flex;
+    justify-content: space-around;
+}
+
+form .div-1 .dropdown-1-div{
+    width: 25%;
+}
+
+
+form .div-1 .dropdown-2-div{
+    width: 25%;
+}
+
+form .div-1 .dropdown-3-div{
+    width: 25%;
+}
+
+.p-1{
+    margin-bottom: 25px;
+    font-weight: bold;
+}
+
+span{
+    color: red;
+}
+
+form .div-2{
+    margin-top: 30px;
+    display: flex;
+    justify-content: space-around;
+}
+
+
+form .div-2 .input-1-div{
+    width: 25%;
+}
+
+form .div-2 .input-2-div{
+    width: 25%;
+}
+
+form .div-2 .input-3-div{
+    width: 25%;
+}
+
+
+
+form .div-2 .input-1{
+
+    border: none;
+    outline: none;
+    border-bottom: 1px solid black;
+    width: 100%;
+    font-size: 20px;
+    width: 100%;
+
+    
+}
+
+form .div-2 .input-2{
+    border: none;
+    outline: none;
+    border-bottom: 1px solid black;
+    width: 100%;
+    font-size: 20px;
+    width: 100%;
+
+
+}
+
+form .div-2 .input-3{
+    border: none;
+    outline: none;
+    border-bottom: 1px solid black;
+    width: 100%;
+    font-size: 20px;
+    width: 100%;
+
+}
+
+
+form .div-3{
+    margin-top: 30px;
+    display: flex;
+    justify-content: space-around;
+}
+
+
+form .div-3 .input-1-div{
+    width: 25%;
+}
+
+form .div-3 .input-2-div{
+    width: 25%;
+}
+
+form .div-3 .input-3-div{
+    width: 25%;
+}
+
+
+
+form .div-3 .input-1{
+
+    border: none;
+    outline: none;
+    border-bottom: 1px solid black;
+    width: 100%;
+    font-size: 20px;
+    width: 100%;
+
+    
+}
+
+form .div-3 .input-2{
+    border: none;
+    outline: none;
+    border-bottom: 1px solid black;
+    width: 100%;
+    font-size: 20px;
+    width: 100%;
+
+
+}
+
+form .div-3 .input-3{
+    border: none;
+    outline: none;
+    border-bottom: 1px solid black;
+    width: 100%;
+    font-size: 20px;
+    width: 100%;
+
+}
+
+
+
+
+
+
+form .div-4 .dropdown-1{
+
+    border: none;
+    outline: none;
+    border-bottom: 1px solid black;
+    width: 100%;
+    font-size: 20px;
+
+    
+}
+
+form .div-4 .input-1{
+    border: none;
+    outline: none;
+    border-bottom: 1px solid black;
+    width: 100%;
+    font-size: 20px;
+
+
+}
+
+form .div-4 .dropdown-2{
+    border: none;
+    outline: none;
+    border-bottom: 1px solid black;
+    width: 100%;
+    font-size: 20px;
+
+}
+
+
+
+form .div-4{
+    margin-top: 30px;
+    display: flex;
+    justify-content: space-around;
+}
+
+form .div-4 .dropdown-1-div{
+    width: 25%;
+}
+
+
+form .div-4 .input-1-div{
+    width: 25%;
+}
+
+form .div-4 .dropdown-2-div{
+    width: 25%;
+}
+
+
+
+form .div-5{
+    width: 85%;
+    margin: 60px auto;
+}
+
+form .div-5 .input-1{
+    border: none;
+    outline: none;
+    border-bottom: 1px solid black;
+    width: 100%;
+    font-size: 20px;
+}
+
+form .div-6{
+    border: 1px dotted black;
+    width: 35%;
+    margin-left: 10%;
+    padding: 20px 80px 20px 20px ;
+
+
+}
+
+form .div-6 button{
+    color: white;
+    background-color: green;
+    font-size: 15px;
+    padding: 15px;
+    border: none;
+    border-radius: 3px;
+}
+
+
+.main-para-1{
+    margin-left: 10%;
+    font-weight: bold;
+}
+
+
+.main-button{
+    border: none;
+    font-weight: bold;
+    font-size: 17px;
+    color: white;
+    background-color: green;
+    border-radius: 5px;
+    padding: 15px 50px 15px 50px;
+    margin: 50px 450px;
+    text-align: center;
+}
+
