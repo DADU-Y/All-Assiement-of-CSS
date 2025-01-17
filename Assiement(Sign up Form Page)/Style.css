@@ -1,0 +1,135 @@
+*{
+    font-family: sans-serif;
+}
+.main-div{
+    border: 1px solid black;
+    box-shadow: 0px 0px 10px black;
+    border-radius: 5px;
+    width: 80%;
+    height: 80vh;
+    margin: 30px auto;
+}
+
+
+.main-div .div-1{
+    position: relative;
+    bottom: 37%;
+    width: 50%;
+    height: 80vh;
+    border-top-left-radius: 5px ;
+    border-bottom-left-radius: 5px ;
+     background: linear-gradient(136deg,rgb(0,0,0) 50%, rgb(255,255,255) 50%);
+    display: inline-block;
+}
+
+
+.main-div .div-1 .heading-1{
+    color: white;
+    margin: 8%;
+}
+
+
+.main-div .div-1 .para-1{
+    color: white;
+    margin-left: 8%;
+    
+}
+
+
+
+
+
+.main-div .div-2{
+    position: relative;
+    right: 15%;
+    display: inline-block;
+    width: 46%;
+    height: 80vh;
+}
+
+
+.main-div .div-2 .heading-1{
+    margin: 30px 200px; 
+}
+
+
+.underline{
+    width: 7%;
+    height: 5px;
+    position: relative;
+    left: 240px;
+    bottom: 30px;
+    background-color: black;
+}
+
+
+
+.main-div .div-2 .input-1{
+    font-size: 20px;
+    outline: none;
+    border: none;
+    border-bottom: 2px solid black;
+    color: black;
+    display: block;
+    margin: 30px auto;
+    background-image: url("https://static.thenounproject.com/png/1081856-200.png");
+    background-repeat: no-repeat;
+    background-size: 40px;
+    padding-bottom: 10px;
+    background-position-x:right ;
+    
+}
+
+
+
+::placeholder{
+    color: black;
+}
+
+.main-div .div-2 .input-2{
+    font-size: 20px;
+    outline: none;
+    border: none;
+    border-bottom: 2px solid black;
+    color: black;
+    display: block;
+    margin: 30px auto;
+    background-image: url("https://static.vecteezy.com/system/resources/previews/006/697/974/non_2x/mail-email-icon-template-black-color-editable-mail-email-icon-symbol-flat-illustration-for-graphic-and-web-design-free-vector.jpg");
+    background-repeat: no-repeat;
+    background-size: 40px;
+    padding-bottom: 10px;
+    background-position-x:right ;
+}
+
+
+
+.main-div .div-2 .input-3{
+    font-size: 20px;
+    outline: none;
+    border: none;
+    border-bottom: 2px solid black;
+    color: black;
+    display: block;
+    margin: 30px auto;
+    background-image: url("https://static.vecteezy.com/system/resources/thumbnails/002/335/856/small_2x/password-lock-icon-free-vector.jpg");
+    background-repeat: no-repeat;
+    background-size: 35px;
+    padding-bottom: 10px;
+    background-position-x:right ;
+}
+
+
+.main-div .div-2 .button-1{
+    color:white;
+    background-color: rgb(16, 16, 109);
+    padding: 10px 80px 10px 80px;
+    border-radius: 20px;
+    display: block;
+    margin: 30px auto;
+}
+
+
+
+.main-div .div-2 .para-1{
+    text-align: center;
+}

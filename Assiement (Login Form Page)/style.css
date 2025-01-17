@@ -1,0 +1,107 @@
+*{
+    font-family: sans-serif;
+}
+.main-div{
+    box-shadow: 0px 0px 10px black;
+    border-radius: 5px;
+    width: 80%;
+    height: 81vh;
+    margin: 30px auto;
+}
+
+
+.main-div .div-1{
+    position: relative;
+    bottom: 17%;
+    width: 50%;
+    height: 80vh;
+    border-top-left-radius: 5px ;
+    border-bottom-left-radius: 5px ;
+     background: linear-gradient(136deg,rgb(0,100,0) 50%, rgb(255,255,255) 50%);
+    display: inline-block;
+}
+
+
+.main-div .div-1 .heading-1{
+    color: white;
+    margin: 8%;
+}
+
+
+.main-div .div-1 .para-1{
+    color: white;
+    margin-left: 8%;
+    
+}
+
+.main-div .div-1 .button-1{
+    margin: 8%;
+    color: white;
+    background-color: darkgreen;
+    border: 1px solid white;
+    border-radius: 30px;
+    padding: 15px;
+}
+
+
+
+.main-div .div-2{
+    display: inline-block;
+    margin-left: 3%;
+    
+    
+}
+
+
+.main-div .div-2 .heading-1{
+    margin-bottom: 15%;
+     
+}
+
+
+
+.main-div .div-2 .para-1{
+    color: gray;
+    
+}
+
+
+.main-div .div-2 .para-2{
+    color: gray;
+    
+    margin-top: 15%;
+}
+
+
+.main-div .div-2 .input-1{
+    border: 1px solid gray;
+    border-radius: 20px;
+    padding: 10px;
+    
+}
+
+
+.main-div .div-2 .input-2{
+    border: 1px solid gray;
+    border-radius: 20px;
+    padding: 10px;
+    
+}
+
+
+.main-div .div-2 .button-1{
+    color: green;
+    background-color: white;
+    padding: 10px 80px 10px 80px;
+    border: 1px solid green;
+    border-radius: 20px;
+    display: block;
+    margin-top: 15%;
+}
+
+
+
+.main-div .div-2 .para-3{
+    color: green;
+}
+
