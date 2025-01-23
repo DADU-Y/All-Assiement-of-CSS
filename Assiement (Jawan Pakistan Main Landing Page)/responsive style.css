@@ -1,0 +1,230 @@
+ @media only screen and (max-width:1350px){
+
+       .navbar,.introduction-div ,.mission-and-vision ,.course-div ,.picture-div ,.main-2middle-div{
+             width: 900px;
+       }
+        
+} 
+
+@media only screen and (max-width:950px){
+
+      .navbar,.introduction-div ,.course-div ,.mission-and-vision,.picture-div ,.main-2middle-div{
+            width: 700px;
+      }
+       
+      .mission-and-vision{
+          display: block;
+      }
+
+
+      .mission-and-vision .div-1{
+            width: 700px;
+      }
+
+      .mission-and-vision .div-2{
+            width: 700px;
+      }
+
+      .picture-div h1{
+            font-size: 25px;
+      }
+      
+
+
+
+      .main-2middle-div .div-1 img{
+            width: 100%;
+      }
+            
+      .main-2middle-div {
+          column-gap: 50px;
+      }
+
+      .course-div .div-1 img{
+          width: 70%;
+      } 
+
+      .course-div .div-2 img{
+            width: 70%;
+        } 
+
+        .course-div .div-1 .image-div{
+            width: 30%;
+        }
+
+        .course-div .div-2 .image-div{
+            width: 30%;
+        }
+      
+} 
+
+
+@media only screen and (max-width:800px){
+   .navbar{
+      display: block;
+   }
+
+   .navbar .div-1{
+      border: none;
+   }
+}
+
+
+@media only screen and (max-width:780px){
+
+      .navbar,.introduction-div ,.course-div ,.mission-and-vision,.picture-div ,.main-2middle-div{
+            width: 560px;
+      }
+       
+
+      .mission-and-vision .div-1{
+            width: 560px;
+      }
+
+      .mission-and-vision .div-2{
+            width: 560px;
+      }
+      
+
+      .introduction-div{
+            display: block;
+      }
+
+      .introduction-div .div-1,.div-2{
+            width: 80%;
+      }
+      .course-div .div-1{
+            flex-direction: column;
+      }
+
+      .course-div .div-2{
+            flex-direction: column;
+            align-items: center;
+      }
+
+
+
+      fieldset{
+            width: 350px;
+      }
+}
+
+@media only screen and (max-width:650px){
+
+      .navbar,.introduction-div ,.course-div ,.mission-and-vision,.picture-div ,.main-2middle-div{
+            width: 320px;
+      }
+       
+
+      .mission-and-vision .div-1{
+            width: 320px;
+      }
+
+      .mission-and-vision .div-1 img{
+            width: 100%;
+      }
+
+  
+      .picture-div h1{
+            font-size: 18px;
+      }
+
+      .course-div{
+            margin: 20px auto;
+      }
+
+      .navbar ul li{
+            width: 100px;
+      }
+
+      .navbar ul{
+            width: 180px;
+      }
+
+      .navbar .div-2{
+            width: 100%;
+      }
+      
+
+
+
+
+      .navbar .div-2 ul{
+            display: block;
+            margin: 20px auto;
+      }
+
+      .mission-and-vision .div-2{
+            width: 320px;
+      }
+}     
+
+@media only screen and (max-width:550px) {
+
+      .main-2middle-div{
+        position: relative;
+        right: 5%;
+      }
+  
+      .main-2middle-div .div-1 img{
+            width: 100px;
+            height: 50px;
+      }
+
+
+      .main-2middle-div .div-2{
+            position: relative;
+            right: 35px;
+
+      }
+
+      .main-2middle-div .div-3{
+            position: relative;
+            right: 80px;
+
+      }
+      
+}
+
+
+@media only screen and (max-width:400px){
+      
+
+.navbar,.introduction-div,.course-div,.mission-and-vision,.picture-div ,.main-2middle-div{
+
+   width: 200px;
+
+}
+
+
+
+
+.mission-and-vision .div-1{
+      width: 200px;
+
+}
+
+
+.mission-and-vision .div-2{
+      width: 200px;
+
+}
+
+fieldset{
+      width: 200px;
+}
+
+form fieldset button{
+      padding: 10px;
+}
+
+.main-middle-div  h1{
+      font-size: 18px;
+}
+
+
+}
+
+
+
+
